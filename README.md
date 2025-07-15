@@ -30,7 +30,7 @@ The GUI is built using **CustomTkinter**, and it integrates `socket`, `ssl`, and
 
 ## 📷 Output Screenshot:
 
-![LinkShield Screenshot]([linkshield.png](https://github.com/sri-7013/OutriX_tasks/blob/main/Task_1/linkshield.png))
+![LinkShield Screenshot](https://github.com/sri-7013/OutriX_tasks/blob/main/Task_1/linkshield.png)
 
 ## 🎥 Demo Video:
 [Watch on Google Drive](https://drive.google.com/file/d/1VoHMet7hGKmI10py_Gkzf_2Auk76y7XF/view?usp=sharing)
