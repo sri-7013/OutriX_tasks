@@ -1,7 +1,5 @@
 # OutriX_tasks
 Tasks completed as part of the OutriX Virtual Cybersecurity Internship
-# OutriX_tasks
-Tasks completed as part of the OutriX Virtual Cybersecurity Internship
 
 # LinkShield - Phishing URL Detection
 
